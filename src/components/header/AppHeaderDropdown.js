@@ -1,8 +1,8 @@
 import React from 'react'
 import {
-  CAvatar,
-  CBadge,
-  CDropdown,
+  CAvatar, //ảnh
+  CBadge, //huy hiệu
+  CDropdown, //dropdown Menu
   CDropdownDivider,
   CDropdownHeader,
   CDropdownItem,
